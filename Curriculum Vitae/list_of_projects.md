@@ -22,12 +22,8 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	I was involved with the UK variant of the app. I was responsible for understanding the current architecture and design pattern, implement new features while resolving issues of existing ones, assist various technical teams, implementing specific UK region features and flavors in the app and till deployment on Play Store.
 	
 	I understood more in depth about the various agile processes and learned a great deal in managing the codebase using Git.
-
-3. **[Cusine Central](https://github.com/sush562/App/tree/master/Cuisine_Central)**
-
-	This is my private POC completely designed in React Native for skill demonstration. It uses Zomato API to fetch list of popular restaurants. User can view the details of these restaurants, their ratings, address, cost, timings, etc.
 	
-4. **Agill** (Cargill, Brazil)
+3. **Agill** (Cargill, Brazil)
 
 	This was an internal client app for its sales team, to create orders and view order history for its customers. This app used SAP Mobile SDK for first time in our organization for performing CRUD operations seamlessly with the backend SAP system.
 	
@@ -35,7 +31,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	
 	The app was delivered well on time and helped the client increase their business flow by quickly capturing their customer's orders and processing them on time.
 	
-5. **Wit Gele Kruis** (Belgium)
+4. **Wit Gele Kruis** (Belgium)
 
 	This was an internal hospital app of client for their nurses to visit patients at their homes and keep track of medical records. This was a re-factoring project as it involved a completely new re-implementation of the existing app into the native Android format. It was also specific for tablets only.
 	
@@ -43,13 +39,13 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	
 	The app was delivered well before time. I learned a lot about performance improvement flows like multithreading, RxJava etc that did indeed speed up the new refactored app.
 	
-6. **mAssist** (Reliance Jio)
+5. **mAssist** (Reliance Jio)
 
 	This was an internal client app for its agents, to assist their customers in their account management, issues and orders. This greatly enhanced the launch process of the product (JIO services) in the Indian market for the client.
 	
 	I was deputed onsite for this. I was responsible to directly connect with stakeholders to understand new features that needed to be developed, interact with backend teams to understand the API formats to consume data in app, and to develop and unit test those features. Also responsible for creating technical documentation pertaining to the app.
 	
-7. **Jio Newspaper** (Reliance Jio)
+6. **Jio Newspaper** (Reliance Jio)
 
 	The app was a prototype designed for the customers of the client that enabled them to read newspapers of major publishers on mobile app by downloading those newspapers and displaying them in a readable format.
 	
@@ -72,6 +68,10 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 
 ## Personal
 
-1. **[PetrolIn](https://play.google.com/store/apps/details?id=com.flutter.fuel.petrolin)**
+1. **[PetrolIn](https://play.google.com/store/apps/details?id=com.flutter.fuel.petrolin)** (Flutter)
 
 	This is a personal project I did to showcase my skills in flutter. This is a fuel entry app where a user can enter his fuel entry every time he refuels his vehicle. This helps in keeping a record of all refueling events. This is a completely offline and lightweight app. Please feel free to try it and add reviews. I will keep updating the app with new features, thus growing my flutter skills.
+
+2. **[Cusine Central](https://github.com/sush562/App/tree/master/Cuisine_Central)** (React Native)
+
+	This is my private POC completely designed in React Native for skill demonstration. It uses Zomato API to fetch list of popular restaurants. User can view the details of these restaurants, their ratings, address, cost, timings, etc.
